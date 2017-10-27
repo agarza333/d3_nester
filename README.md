@@ -1,6 +1,6 @@
 ## D3 Nester
 This class recursively builds d3.js ready nested json for the hierarchical visuals in d3.js.
-This class can nest for any number of keys input, Memory permitting of course.
+This class can nest for any number of keys input, memory permitting of course.
 
 ### Example Usage:
 #### Place keys in order to nest for d3
